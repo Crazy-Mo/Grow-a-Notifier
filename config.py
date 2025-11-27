@@ -8,4 +8,5 @@ CHANNEL_IDS = {
     channelid4: "Honey Stock"
 }
 
-NTFY_TOPIC = "your topicname here"
+
+NTFY_TOPIC = "gag_stockz"
